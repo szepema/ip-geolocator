@@ -4,7 +4,7 @@ import java.net.URL;
 
 import java.io.IOException;
 
-import com.fasterxml.jackson.databind .DeserializationFeature;
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import com.google.common.net.UrlEscapers;
